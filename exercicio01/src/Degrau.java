@@ -1,4 +1,4 @@
-/**/
+/* criar um programa que receba um número e simule a subida da escadaria.*/
 
 import java.util.Scanner;
 
