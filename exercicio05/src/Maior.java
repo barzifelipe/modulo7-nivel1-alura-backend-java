@@ -1,4 +1,4 @@
-/**/
+/* Crie um programa que receba uma lista de números e encontre o maior número.*/
 
 import java.util.Scanner;
 
